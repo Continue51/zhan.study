@@ -1,0 +1,92 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+body {
+    background-color: #D32F1F;
+}
+
+.main {
+    width: 1000px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+.banner {
+    width: 1000px;
+    font-size: 0px;
+}
+
+.banner img {
+    width: 1000px;
+}
+
+.banner p {
+    font-size: 40px;
+    position: absolute;
+    top: 200px;
+    width: 400px;
+    color: #CB4F25;
+    text-align: center;
+    margin-left: 300px;
+    text-shadow: -1px 0 white, 0 1px white, 1px 0 white, 0 -1px white;
+}
+
+.heard {
+    display: flex;
+    height: 40px;
+    background-color: #5D0E07;
+    width: 900px;
+    padding-left: 50px;
+    padding-right: 50px;
+    margin: 0 auto;
+}
+
+.heard a {
+    height: 26px;
+    background-color: #5D0E07;
+    width: 100px;
+    text-align: center;
+    border-radius: 4px;
+    margin-top: 5px;
+    text-decoration: none;
+    color: #fff;
+    line-height: 26px;
+}
+
+.heard a:not(:first-child) {
+    margin-left: 60px;
+}
+
+.heard a:hover {
+    background-color: #fff;
+    color: #5D0E07;
+}
+
+.main_neirong {
+    width: 1000px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: #fff;
+}
+
+.clear {
+    height: 3px;
+    width: 1000px;
+    margin: 0 auto;
+    background-color: #8D3A16;
+}
+
+.footer {
+    width: 1000px;
+    height: 20px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color: #FFFFD1;
+    font-size: 12px;
+}

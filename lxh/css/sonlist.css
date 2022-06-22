@@ -1,0 +1,149 @@
+.main_neirong {
+    display: flex;
+}
+
+.main_left {
+    margin-left: 20px;
+    height: 566px;
+    width: 200px;
+    /* background-color: brown; */
+}
+
+.left_top {
+    height: 30px;
+    width: 180px;
+    background-color: #8C1A11;
+    color: #fff;
+    line-height: 30px;
+    padding-left: 20px;
+}
+
+.top_list {
+    width: 180px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 30px;
+    margin-bottom: 100px;
+}
+
+.top_list li {
+    list-style: disc;
+    font-size: 12px;
+    margin-left: 20px;
+    line-height: 20px;
+}
+
+.bainkaung {
+    border: 1px solid #ccc;
+}
+
+.right_top {
+    width: 700px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 20px;
+}
+
+.right_top_title {
+    width: 100%;
+    position: relative;
+    height: 40px;
+    line-height: 40px;
+    font-size: 20px;
+    font-weight: 500;
+    border-bottom: 1px dashed #ccc;
+}
+
+.title_right {
+    display: flex;
+    position: absolute;
+    height: 40px;
+    right: 0px;
+    top: 0px;
+    font-size: 14px;
+}
+
+.title_right a {
+    text-decoration: none;
+    color: rgb(59, 59, 59);
+}
+
+.title_right p {
+    margin-right: 10px;
+}
+
+.right_top_title ul {
+    padding-top: 10px;
+}
+
+.right_top_title ul li {
+    width: 680px;
+    margin-left: 20px;
+    list-style: disc;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.right_top_title ul li a {
+    text-decoration: none;
+    color: black;
+}
+
+.clear3 {
+    width: 100%;
+    height: 1px;
+    border-bottom: 1px dashed #ccc;
+}
+
+.xuanze {
+    width: 100%;
+    margin-top: 30px;
+}
+
+.yemian {
+    display: flex;
+    margin: 0 auto;
+    height: 20px;
+    width: 370px;
+}
+
+.yemian p {
+    margin-left: 20px;
+    font-size: 12px;
+    line-height: 20px;
+}
+
+.yemian a {
+    width: 30px;
+    height: 20p;
+    font-size: 12px;
+    line-height: 20px;
+    text-decoration: none;
+    margin-left: 2px;
+    text-align: center;
+    border: 1px solid #B7D4F2;
+}
+
+.neirong2 h3 {
+    text-align: center;
+    margin-top: 10px;
+}
+
+.neirong2 h4 {
+    font-size: 13px;
+}
+
+.time {
+    font-size: 12px;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.neirong2 img {
+    width: 300px;
+    margin-left: 200px;
+}
+
+.neirong2 p {
+    font-size: 12px;
+}
